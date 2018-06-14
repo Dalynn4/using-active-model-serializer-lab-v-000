@@ -34,6 +34,6 @@ RSpec.describe "Products", type: :feature do
 
   describe "products index" do
     it 'gets the description and inventory', js: true do
-
+end
   end
 end
